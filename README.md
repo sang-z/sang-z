@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sang-z
-- 👀 I’m interested in ...codeing but idk how to code 
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...a web development team
 - 📫 How to reach me ...sangeethsangeeth34611@gmail.com
-- 😄 Pronouns: ...aeiou
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...The first computer bug was actually a real bug!. its from gpt
 
 <!---
